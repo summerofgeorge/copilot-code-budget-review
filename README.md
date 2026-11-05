@@ -8,7 +8,7 @@ Use **Microsoft Copilot's Code tab**. Product availability and steps were checke
 
 1. Open `prompts.md` and send the planning prompt in a new Code session. It already includes the eight fictional rows, so uploading the CSV is optional.
 2. Review the business rules, then send the build prompt. If Code asks about hosting, select the standalone file option.
-3. Download the HTML file Code generates and open it in a browser. Check the values below before sending the final refinement prompt.
+3. Download the HTML file Code generates and open it in a browser. If file delivery fails, use the recovery prompts and Notepad steps in `prompts.md`. Check the values below before sending the final refinement prompt.
 4. Open the revised HTML, repeat the checks, and export the Operations rows to CSV. Open that export in Excel.
 
 `budget-actuals.csv` contains the same source data for checking in Excel. All amounts are fictional expenses in USD. No real company data or work-file connections are needed. GitHub is just the download location; cloning, commits, and a GitHub account are not required to do the exercise.
