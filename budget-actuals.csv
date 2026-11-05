@@ -1,0 +1,9 @@
+Period,Department,Account,Budget,Actual
+2026-10,Operations,Freight,50000,56000
+2026-10,Operations,Temporary staff,50000,55000
+2026-10,Operations,Supplies,50000,54999
+2026-10,Finance,Audit,100000,106000
+2026-10,Finance,Software,20000,18000
+2026-10,Sales,Travel,0,2000
+2026-10,Sales,Events,10000,10000
+2026-10,Finance,Training,0,0
